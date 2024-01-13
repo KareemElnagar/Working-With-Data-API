@@ -5,7 +5,7 @@
       "title": "Greek Salad",
       "description": "The famous greek salad of crispy lettuce, peppers, olives, our Chicago.",
       "price": "10",
-      "image": "https://github.com/Meta-Mobile-Developer-PC/Working-With-Data-API/blob/main/images/greekSalad.jpg?raw=true",
+      "image": "https://github.com/KareemElnagar/Working-With-Data-API/blob/main/images/Greek%20salad.png?raw=true",
       "category": "starters"
     },
     {
@@ -13,7 +13,7 @@
       "title": "Lemon Desert",
       "description": "Traditional homemade Italian Lemon Ricotta Cake.",
       "price": "10",
-      "image": "https://github.com/Meta-Mobile-Developer-PC/Working-With-Data-API/blob/main/images/lemonDessert%202.jpg?raw=true",
+      "image": "https://github.com/KareemElnagar/Working-With-Data-API/blob/main/images/Lemon%20dessert.png?raw=true",
       "category": "desserts" 
     },
     {
@@ -21,7 +21,7 @@
       "title": "Grilled Fish",
       "description": "Our Bruschetta is made from grilled bread that has been smeared with garlic and seasoned with salt and olive oil.",
       "price": "10",
-      "image": "https://github.com/Meta-Mobile-Developer-PC/Working-With-Data-API/blob/main/images/grilledFish.jpg?raw=true",
+      "image": "https://github.com/KareemElnagar/Working-With-Data-API/blob/main/images/Grilled%20fish.png?raw=true",
       "category": "mains"
     },
     {
@@ -29,7 +29,7 @@
       "title": "Pasta",
       "description": "Penne with fried aubergines, cherry tomatoes, tomato sauce, fresh chilli, garlic, basil & salted ricotta cheese.",
       "price": "10",
-      "image": "https://github.com/Meta-Mobile-Developer-PC/Working-With-Data-API/blob/main/images/pasta.jpg?raw=true",
+      "image": "https://github.com/KareemElnagar/Working-With-Data-API/blob/main/images/pasta.jpg?raw=true",
       "category": "mains"
     },
     {
@@ -37,8 +37,24 @@
       "title": "Bruschetta",
       "description": "Oven-baked bruschetta stuffed with tomatos and herbs.",
       "price": "10",
-      "image": "https://github.com/Meta-Mobile-Developer-PC/Working-With-Data-API/blob/main/images/bruschetta.jpg?raw=true",
+      "image": "https://github.com/KareemElnagar/Working-With-Data-API/blob/main/images/Bruschetta.png?raw=true",
       "category": "starters"
+    },
+    {
+      "category": "starters",
+      "description": "A broth made from caramelized onions, with toasted bread and melted cheese.",
+      "id": 6,
+      "image": "https://github.com/KareemElnagar/Meta-Android/blob/main/Capstone/zip%20folder%20with%20assets%20for%20learners/onion_soup.png?raw=true",
+      "price": 10.99,
+      "title": "Onion soup"
+    },
+    {
+      "category": "desserts",
+      "description": "Indulgent chocolate lava cake with a gooey center.",
+      "id": 7,
+      "image": "https://github.com/KareemElnagar/Meta-Android/blob/main/Capstone/zip%20folder%20with%20assets%20for%20learners/chocolate_molten_lava_cakes.png?raw=true",
+      "price": 7.99,
+      "title": "Chocolate Lava Cake"
     }
   ]
 }
