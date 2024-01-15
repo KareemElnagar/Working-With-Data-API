@@ -4,13 +4,13 @@
       "id": 1,
       "title": "Greek Salad",
       "description": "The famous greek salad of crispy lettuce, peppers, olives, our Chicago.",
-      "price": "10",
+      "price": "5",
       "image": "https://github.com/KareemElnagar/Working-With-Data-API/blob/main/images/Greek%20salad.png?raw=true",
       "category": "starters"
     },
     {
       "id": 2,
-      "title": "Lemon Desert",
+      "title": "Lemon Dessert",
       "description": "Traditional homemade Italian Lemon Ricotta Cake.",
       "price": "10",
       "image": "https://github.com/KareemElnagar/Working-With-Data-API/blob/main/images/Lemon%20dessert.png?raw=true",
@@ -20,7 +20,7 @@
       "id": 3,
       "title": "Grilled Fish",
       "description": "Our Bruschetta is made from grilled bread that has been smeared with garlic and seasoned with salt and olive oil.",
-      "price": "10",
+      "price": "15.99",
       "image": "https://github.com/KareemElnagar/Working-With-Data-API/blob/main/images/Grilled%20fish.png?raw=true",
       "category": "mains"
     },
@@ -36,7 +36,7 @@
       "id": 5,
       "title": "Bruschetta",
       "description": "Oven-baked bruschetta stuffed with tomatos and herbs.",
-      "price": "10",
+      "price": "5.99",
       "image": "https://github.com/KareemElnagar/Working-With-Data-API/blob/main/images/Bruschetta.png?raw=true",
       "category": "starters"
     },
@@ -46,7 +46,7 @@
       "id": 6,
       "image": "https://github.com/KareemElnagar/Meta-Android/blob/main/Capstone/zip%20folder%20with%20assets%20for%20learners/onion_soup.png?raw=true",
       "price": 10.99,
-      "title": "Onion soup"
+      "title": "Onion Soup"
     },
     {
       "category": "desserts",
@@ -55,6 +55,22 @@
       "image": "https://github.com/KareemElnagar/Meta-Android/blob/main/Capstone/zip%20folder%20with%20assets%20for%20learners/chocolate_molten_lava_cakes.png?raw=true",
       "price": 7.99,
       "title": "Chocolate Lava Cake"
+    },
+    {
+      "category": "drinks",
+      "description": "Egyptian soft drink with different flavours.",
+      "id": 8,
+      "image": "https://github.com/KareemElnagar/Working-With-Data-API/blob/main/images/spairo.jpg?raw=true",
+      "price": 8.99,
+      "title": "Spairo Spatis"
+    },
+    {
+      "category": "drinks",
+      "description": "Lemon and mint detox water.",
+      "id": 9,
+      "image": "https://github.com/KareemElnagar/Working-With-Data-API/blob/main/images/Lemon_mint_water.png?raw=true",
+      "price": 6.99,
+      "title": "Little Lemon water"
     }
   ]
 }
